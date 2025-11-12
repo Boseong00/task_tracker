@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding: 10px;
+    width: 200px;
+    margin: 0 auto;
+}
+.center-box{
+    width: 300px;
+    margin: 0 auto;
+}
+li{
+    list-style: none;
+}
